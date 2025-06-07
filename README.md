@@ -1,16 +1,50 @@
-## Hi there 👋
+### Hi there, I'm Michael Murwayi 👋
 
-<!--
-**michaelmurwayi/michaelmurwayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a passionate data scientist and software engineer focused on building smart, scalable solutions to real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+
+- 🧠 Specializing in **Machine Learning**, **Data Engineering**, and **Backend APIs**
+- 🌍 Actively working with **Python**, **Django**, **Pandas**, and **PostgreSQL**
+- 🏢 Currently consulting at **Athana Data Science Services (ADSS)**
+- 🌱 Currently exploring: **LLMs** and **geospatial modeling**
+- 🎯 Passionate about clean architecture, reproducible data pipelines, and civic tech
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript (Vue), SQL, Bash
+- **Frameworks**: Django, FastAPI, Flask, Pandas, Scikit-Learn
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **Tools**: Docker, Git, Linux, VS Code, Jupyter
+- **Cloud/DevOps**: DigitalOcean, GitHub Actions
+
+---
+
+### 📊 GitHub Stats
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmurwayi&show_icons=true&theme=gruvbox)
+
+---
+
+### 🧠 Recent Work
+
+- 🔬 Environmental ML models for atmospheric emissions & pollution ([Dept. of Environment])
+- 🧾 Auction file automation system for coffee trade
+- 📈 Data cleaning & validation pipelines with custom Django admin tools
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 🌐 Website/Portfolio: _Coming soon!_
+
+---
+
+_“Code is not just what we type — it’s what we care about.”_
+
