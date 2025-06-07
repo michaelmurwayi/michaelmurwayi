@@ -40,8 +40,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📧 Email: [mikemurwayi7@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/michaelmurwayi](https://linkedin.com/in/michaelmurwayi)
 - 🌐 Website/Portfolio: _Coming soon!_
 
 ---
