@@ -30,11 +30,6 @@
 
 ---
 
-### 📊 GitHub Activity Graph
-
-[![Michael's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelmurwayi&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-
 ### 🧠 Recent Work
 
 - 🔬 Environmental ML models for atmospheric emissions & pollution ([Dept. of Environment])
